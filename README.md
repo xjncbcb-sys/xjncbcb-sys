@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="1565" height="578" alt="image" src="https://github.com/user-attachments/assets/e9ed08c6-4e5e-4525-9129-cd47aa280ba8" />
+![我的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=xjncbcb-sys&show_icons=true&theme=radical)
 
 
 <!--
